@@ -14,6 +14,7 @@ int main()
     int timeinhand = 240 - k;
     int timeused = 0;
     int count = 0;
+   int st = 0;
     
     for (int i = 1; i<=n; i++)
     {
